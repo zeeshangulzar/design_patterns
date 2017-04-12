@@ -27,3 +27,4 @@ end
 
 require 'car.rb'
 require 'notifier.rb'
+require 'app_config.rb'
